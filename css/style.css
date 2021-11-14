@@ -1,0 +1,11 @@
+#home{
+    /* background-color: black; */
+    height: 100%;
+    padding-top: 50%;
+}
+#body{
+    background-image: url(https://wallpapercave.com/wp/wp9243724.jpg);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+}
