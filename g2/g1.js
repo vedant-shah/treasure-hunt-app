@@ -138,7 +138,7 @@ function check6() {
     if (secretkey6.value == "abc") {
         
             // console.log("button working")
-            // window.open("./q6.html", "_self");
+            window.open("./end.html", "_self");
         
     } 
     else {
