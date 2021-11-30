@@ -14,7 +14,7 @@ setTimeout(() => {
 function check1() {
     secretkey1 = document.getElementById('secretkey1');
     // console.log(secretkey1.value);
-    if (secretkey1.value == "IetfG") {
+    if (secretkey1.value == "ZS9Kj") {
             window.open("./q2.html", "_self");
         
     } 
@@ -40,7 +40,7 @@ function check1() {
 function check2() {
     secretkey2 = document.getElementById('secretkey2');
     // console.log(secretkey1.value);
-    if (secretkey2.value == "TwtdM") {
+    if (secretkey2.value == "rdabH") {
       window.open("./q3.html", "_self");
     } else {
       let showmessage = document.getElementById('message');
@@ -61,7 +61,7 @@ function check2() {
   function check3() {
     secretkey3 = document.getElementById('secretkey3');
     // console.log(secretkey1.value);
-    if (secretkey3.value == "cSvBu") {
+    if (secretkey3.value == "9SWmW") {
         
             window.open("./q4.html", "_self");
     } 
@@ -85,7 +85,7 @@ function check2() {
 function check4() {
     secretkey4 = document.getElementById('secretkey4');
     // console.log(secretkey1.value);
-    if (secretkey4.value == "ty05o") {
+    if (secretkey4.value == "cRoGy") {
         
             // console.log("button working")
             window.open("./q5.html", "_self");
@@ -111,7 +111,7 @@ function check4() {
 function check5() {
     secretkey5 = document.getElementById('secretkey5');
     // console.log(secretkey1.value);
-    if (secretkey5.value == "2afdA") {
+    if (secretkey5.value == "x9VKs") {
         
             window.open("./q6.html", "_self");
     } 

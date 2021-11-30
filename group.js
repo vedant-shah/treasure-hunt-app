@@ -22,3 +22,7 @@ function g1q1() {
     // console.log("button working")
     window.open("g6/q1.html","_self");
   }
+  function g7q1() {
+    // console.log("button working")
+    window.open("g7/q1.html","_self");
+  }

@@ -14,7 +14,7 @@ setTimeout(() => {
 function check1() {
     secretkey1 = document.getElementById('secretkey1');
     // console.log(secretkey1.value);
-    if (secretkey1.value == "abc") {
+    if (secretkey1.value == "TIfgR") {
             window.open("./q2.html", "_self");
         
     } 
@@ -40,7 +40,7 @@ function check1() {
 function check2() {
     secretkey2 = document.getElementById('secretkey2');
     // console.log(secretkey1.value);
-    if (secretkey2.value == "abc") {
+    if (secretkey2.value == "3MO8z") {
       window.open("./q3.html", "_self");
     } else {
       let showmessage = document.getElementById('message');
@@ -61,7 +61,7 @@ function check2() {
   function check3() {
     secretkey3 = document.getElementById('secretkey3');
     // console.log(secretkey1.value);
-    if (secretkey3.value == "abc") {
+    if (secretkey3.value == "iJNib") {
         
             window.open("./q4.html", "_self");
     } 
@@ -85,7 +85,7 @@ function check2() {
 function check4() {
     secretkey4 = document.getElementById('secretkey4');
     // console.log(secretkey1.value);
-    if (secretkey4.value == "abc") {
+    if (secretkey4.value == "yb3Si") {
         
             // console.log("button working")
             window.open("./q5.html", "_self");
@@ -111,7 +111,7 @@ function check4() {
 function check5() {
     secretkey5 = document.getElementById('secretkey5');
     // console.log(secretkey1.value);
-    if (secretkey5.value == "abc") {
+    if (secretkey5.value == "csfeD") {
         
             window.open("./q6.html", "_self");
     } 
@@ -125,31 +125,6 @@ function check5() {
         </button>
       </div>`
       secretkey5.value='';
-                
-        setTimeout(() => {
-            showmessage.innerHTML = '';
-        },2000);
-    }
-}
-
-function check6() {
-    secretkey6 = document.getElementById('secretkey6');
-    // console.log(secretkey1.value);
-    if (secretkey6.value == "abc") {
-        
-            // console.log("button working")
-            window.open("./end.html", "_self");
-        
-    } 
-    else {
-        let showmessage = document.getElementById('message');
-        showmessage.innerHTML = `
-        <div class="alert alert-danger alert-dismissible fade show" role="alert">
-        <strong>Wrong Secret Key!</strong> Try Again!
-        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>`
                 
         setTimeout(() => {
             showmessage.innerHTML = '';
